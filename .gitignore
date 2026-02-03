@@ -1,9 +1,12 @@
-MongoDB/
 node_modules/
 **/node_modules/
 .env
 **/.env
+MongoDB/
 build/
 **/build/
 dist/
 **/dist/
+*.log
+.vscode/
+.idea/
