@@ -18,9 +18,6 @@ Backend: Node.js, Express
 Database: MongoDB  
 Auth: JWT  
 
-## Screenshots
-(Add screenshots here)
-
 ## Setup (Run Locally)
 
 ### Backend
