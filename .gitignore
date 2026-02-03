@@ -1,0 +1,9 @@
+MongoDB/
+node_modules/
+**/node_modules/
+.env
+**/.env
+build/
+**/build/
+dist/
+**/dist/
